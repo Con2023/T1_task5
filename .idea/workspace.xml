@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="52ac719b-a923-4525-b176-6a43945e96e6" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$MAVEN_REPOSITORY$/org/springframework/kafka/spring-kafka/3.3.6/spring-kafka-3.3.6-sources.jar!/org/springframework/kafka/core/KafkaTemplate.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2xxVAp2v4j8NtUBynbc5fPmy4SA" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "HTTP Request.generated-requests | #57.executor": "Run",
+    "HTTP Request.generated-requests | #58.executor": "Run",
+    "HTTP Request.generated-requests | #59.executor": "Run",
+    "HTTP Request.generated-requests | #60.executor": "Run",
+    "HTTP Request.generated-requests | #61.executor": "Run",
+    "JUnit.MetricAspectTest (1).executor": "Run",
+    "JUnit.MetricAspectTest.executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Spring Boot.CommonApplication.executor": "Debug",
+    "Spring Boot.Server1.executor": "Debug",
+    "Spring Boot.Server2.executor": "Debug",
+    "Spring Boot.Task1Application.executor": "Run",
+    "Spring Boot.Task3Application.executor": "Debug",
+    "Spring Boot.TaskApplication.executor": "Run",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/sofia/Desktop/T1_task5",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/sofia/Desktop/Task3/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.6643678",
+    "run.configurations.included.in.services": "true",
+    "settings.editor.selected.configurable": "preferences.externalTools",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sofia\Desktop\Task3\Common\src\main\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\sofia\Desktop\Task3" />
+      <recent name="C:\Users\sofia\Desktop\Task3\Common" />
+      <recent name="C:\Users\sofia\Desktop\Task3\Server2" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+      <recent name="org.example.Common" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.example.Server2" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="MicronautRunConfigurationType" />
+        <option value="QuarkusRunConfigurationType" />
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Server2">
+    <configuration name="generated-requests | #57" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" index="57" requestIdentifier="#57" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="generated-requests | #58" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" index="58" requestIdentifier="#58" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="generated-requests | #59" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" index="59" requestIdentifier="#59" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="generated-requests | #60" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" index="60" requestIdentifier="#60" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="generated-requests | #61" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" index="61" requestIdentifier="#61" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="CommonApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="common" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.Common.TaskApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server1" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <option name="ALTERNATIVE_JRE_PATH" value="23" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <module name="Server1" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.Server1.TaskServer1Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server2" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <option name="ALTERNATIVE_JRE_PATH" value="23" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <module name="Server2" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.Server2.TaskServer2Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="HTTP Request.generated-requests | #61" />
+      <item itemvalue="HTTP Request.generated-requests | #57" />
+      <item itemvalue="HTTP Request.generated-requests | #58" />
+      <item itemvalue="HTTP Request.generated-requests | #59" />
+      <item itemvalue="HTTP Request.generated-requests | #60" />
+      <item itemvalue="Spring Boot.CommonApplication" />
+      <item itemvalue="Spring Boot.Server1" />
+      <item itemvalue="Spring Boot.Server2" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="HTTP Request.generated-requests | #61" />
+        <item itemvalue="HTTP Request.generated-requests | #60" />
+        <item itemvalue="HTTP Request.generated-requests | #59" />
+        <item itemvalue="HTTP Request.generated-requests | #58" />
+        <item itemvalue="HTTP Request.generated-requests | #57" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="52ac719b-a923-4525-b176-6a43945e96e6" name="Changes" comment="" />
+      <created>1748879571006</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1748879571006</updated>
+      <workItem from="1748879572359" duration="484000" />
+      <workItem from="1748880150092" duration="774000" />
+      <workItem from="1748881203423" duration="850000" />
+      <workItem from="1748882064521" duration="180000" />
+      <workItem from="1748931592728" duration="416000" />
+      <workItem from="1748932033455" duration="9000" />
+      <workItem from="1748938514274" duration="78000" />
+      <workItem from="1748938607838" duration="1431000" />
+      <workItem from="1748940049711" duration="1585000" />
+      <workItem from="1748957007361" duration="3279000" />
+      <workItem from="1749024601688" duration="11105000" />
+      <workItem from="1749036938497" duration="72000" />
+      <workItem from="1749037067307" duration="47000" />
+      <workItem from="1749038032999" duration="21000" />
+      <workItem from="1749038064729" duration="7077000" />
+      <workItem from="1749102026123" duration="29000" />
+      <workItem from="1749133661218" duration="11790000" />
+      <workItem from="1749146827795" duration="706000" />
+      <workItem from="1749147561035" duration="158000" />
+      <workItem from="1749147743161" duration="45000" />
+      <workItem from="1749147795719" duration="702000" />
+      <workItem from="1749192406766" duration="2753000" />
+      <workItem from="1749195559454" duration="63000" />
+      <workItem from="1749220897637" duration="7422000" />
+      <workItem from="1749281154485" duration="7628000" />
+      <workItem from="1749315651282" duration="3935000" />
+      <workItem from="1749375598188" duration="24407000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

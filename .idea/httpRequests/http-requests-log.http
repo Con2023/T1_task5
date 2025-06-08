@@ -1,0 +1,119 @@
+POST http://localhost:8083/statusChecked
+Content-Type: application/json
+Content-Length: 91
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.1.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "clientId": 2123769317236280700,
+  "accountId": -2079994816150225589,
+  "amount": 600
+}
+
+<> 2025-06-08T163908.200.json
+
+###
+
+POST http://localhost:8083/statusChecked
+Content-Type: application/json
+Content-Length: 91
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.1.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "clientId": 2123769317236280700,
+  "accountId": -2079994816150225589,
+  "amount": 600
+}
+
+<> 2025-06-08T163823.200.json
+
+###
+
+POST http://localhost:8083/statusChecked
+Content-Type: application/json
+Content-Length: 90
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.1.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "clientId": 2123769317236280700,
+  "accountId": 2079994816150225589,
+  "amount": 600
+}
+
+<> 2025-06-08T163817.200.json
+
+###
+
+POST http://localhost:8083/statusChecked
+Content-Type: application/json
+Content-Length: 90
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.1.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "clientId": 3892976237994517032,
+  "accountId": 8102070572359101485,
+  "amount": 600
+}
+
+<> 2025-06-08T163559.200.json
+
+###
+
+POST http://localhost:8083/statusChecked
+Content-Type: application/json
+Content-Length: 90
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.1.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "clientId": 3892976237994517032,
+  "accountId": 8102070572359101485,
+  "amount": 600
+}
+
+<> 2025-06-08T163556.200.json
+
+###
+
+POST http://localhost:8083/statusChecked
+Content-Type: application/json
+Content-Length: 90
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.1.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "clientId": 3892976237994517032,
+  "accountId": 8102070572359101485,
+  "amount": 600
+}
+
+<> 2025-06-08T163555.200.json
+
+###
+
+POST http://localhost:8083/statusChecked
+Content-Type: application/json
+Content-Length: 90
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.1.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "clientId": 3892976237994517032,
+  "accountId": 8102070572359101485,
+  "amount": 600
+}
+
+<> 2025-06-08T163251.200.json
+
+###
+
